@@ -10,7 +10,7 @@
 	{
 		"id": "mine_chromatic:browser",
 		"name": "MineChromatic",
-		"authors": "Ultreon Team, JCEF Team",
+		"authors": ["Ultreon Team", "JCEF Team"],
 		"description": "Chromium based web browser. Makes use of JCEF to draw web pages in the app.",
 		"screenshots": 1,
 		"project_id": "mine-chromatic-addon"
